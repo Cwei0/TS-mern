@@ -1,0 +1,23 @@
+.login-body{
+    background-image: linear-gradient(90deg, rgb(9, 35, 47), rgb(17, 39, 55));
+    height: 100vh;
+    width: 100vw;
+}
+.login-container{
+    border-radius: 10px;
+    min-width: 50px;
+    max-width: 900px;
+}
+.login-input{
+    background-color: lightgray !important;
+    border-color:lightgray
+}
+
+.custom-btn{
+    text-transform: capitalize !important;
+    border-radius: 10px !important;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3);
+    background-image: linear-gradient(90deg, rgb(12,237,147), rgb(13, 200, 220));
+    color: white !important;
+    font-weight: bold !important;
+}
